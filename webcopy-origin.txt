@@ -1,0 +1,212 @@
+Uri: https://awardbot.xyz/
+File Name: C:\Downloaded Web Sites\awardbot.xyz\index.htm
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\awardbot.xyz\npm\bootstrap@4.5.3\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\awardbot.xyz\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdn.glitch.com/bbb12b97-913f-4b98-9a2a-9779d7bfd19d%2Fawards.png?v=1605646160432
+File Name: C:\Downloaded Web Sites\awardbot.xyz\bbb12b97-913f-4b98-9a2a-9779d7bfd19dawards.png
+Content Type: image/png
+
+Uri: https://awardbot.xyz/style.css
+File Name: C:\Downloaded Web Sites\awardbot.xyz\style.css
+Content Type: text/css
+
+Uri: https://awardbot.xyz/discordInvite.css
+File Name: C:\Downloaded Web Sites\awardbot.xyz\discordInvite.css
+Content Type: text/css
+
+Uri: https://awardbot.xyz/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\awardbot.xyz\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://github.com/award-bot
+File Name: C:\Downloaded Web Sites\awardbot.xyz\award-bot.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/channel/UCSzsAEJhymW4-1QCRVg_OjA
+File Name: C:\Downloaded Web Sites\awardbot.xyz\channel\UCSzsAEJhymW4-1QCRVg_OjA.html
+Content Type: text/html
+
+Uri: https://awardbot.xyz/discordInvite.js
+File Name: C:\Downloaded Web Sites\awardbot.xyz\discordInvite.js
+Content Type: application/javascript
+
+Uri: https://cdn.discordapp.com/attachments/781584433894391848/782156825234636810/1606551103399.png
+File Name: C:\Downloaded Web Sites\awardbot.xyz\attachments\781584433894391848\782156825234636810\1606551103399.png
+Content Type: image/png
+
+Uri: https://award-websitex.glitch.me/3.svg
+File Name: C:\Downloaded Web Sites\awardbot.xyz\3.svg
+Content Type: image/svg+xml
+
+Uri: https://awardbot.xyz/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\awardbot.xyz\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.5.1.slim.min.js
+File Name: C:\Downloaded Web Sites\awardbot.xyz\jquery-3.5.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\awardbot.xyz\npm\bootstrap@4.5.3\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://discordapp.com/assets/6c6374bad0b0b6d204d8d6dc4a18d820.woff
+File Name: C:\Downloaded Web Sites\awardbot.xyz\assets\6c6374bad0b0b6d204d8d6dc4a18d820.woff
+Content Type: application/font-woff
+
+Uri: https://discordapp.com/assets/e8acd7d9bf6207f99350ca9f9e23b168.woff
+File Name: C:\Downloaded Web Sites\awardbot.xyz\assets\e8acd7d9bf6207f99350ca9f9e23b168.woff
+Content Type: application/font-woff
+
+Uri: https://discordapp.com/assets/3bdef1251a424500c1b3a78dea9b7e57.woff
+File Name: C:\Downloaded Web Sites\awardbot.xyz\assets\3bdef1251a424500c1b3a78dea9b7e57.woff
+Content Type: application/font-woff
+
+Uri: https://discordapp.com/assets/be0060dafb7a0e31d2a1ca17c0708636.woff
+File Name: C:\Downloaded Web Sites\awardbot.xyz\assets\be0060dafb7a0e31d2a1ca17c0708636.woff
+Content Type: application/font-woff
+
+Uri: https://discordapp.com/assets/8e12fb4f14d9c4592eb8ec9f22337b04.woff
+File Name: C:\Downloaded Web Sites\awardbot.xyz\assets\8e12fb4f14d9c4592eb8ec9f22337b04.woff
+Content Type: application/font-woff
+
+Uri: https://awardbot.xyz/docs/
+File Name: C:\Downloaded Web Sites\awardbot.xyz\docs\index.htm
+Content Type: text/html
+
+Uri: https://awardbot.xyz/invite/
+File Name: C:\Downloaded Web Sites\awardbot.xyz\invite\index.htm
+Content Type: text/html
+
+Uri: https://awardbot.xyz/vote/
+File Name: C:\Downloaded Web Sites\awardbot.xyz\vote\index.htm
+Content Type: text/html
+
+Uri: https://top.gg/bot/731219163317534740
+File Name: C:\Downloaded Web Sites\awardbot.xyz\bot\731219163317534740.html
+Content Type: text/html
+
+Uri: https://awardbot.xyz/discord/
+File Name: C:\Downloaded Web Sites\awardbot.xyz\discord\index.htm
+Content Type: text/html
+
+Uri: https://awardbot.xyz/status/
+File Name: C:\Downloaded Web Sites\awardbot.xyz\status\index.htm
+Content Type: text/html
+
+Uri: https://award.statuspage.io/
+File Name: C:\Downloaded Web Sites\awardbot.xyz\index-1.htm
+Content Type: text/html
+
+Uri: https://awardbot.xyz/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\awardbot.xyz\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-
+File Name: C:\Downloaded Web Sites\awardbot.xyz\hc\en-us\articles\200170016-What-is-Email-Address-Obfuscation-.html
+Content Type: text/html
+
+Uri: https://support.cloudflare.com/hc/en-us/categories/200275218-Getting-Started
+File Name: C:\Downloaded Web Sites\awardbot.xyz\hc\en-us\categories\200275218-Getting-Started.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/awardbot/
+File Name: C:\Downloaded Web Sites\awardbot.xyz\awardbot\index.htm
+Content Type: text/html
+
+Uri: https://awardbot.xyz/pekmen/
+File Name: C:\Downloaded Web Sites\awardbot.xyz\pekmen\index.htm
+Content Type: text/html
+
+Uri: https://pekmen.net/
+File Name: C:\Downloaded Web Sites\awardbot.xyz\index-2.htm
+Content Type: text/html
+
+Uri: https://awardbot.xyz/404/
+File Name: C:\Downloaded Web Sites\awardbot.xyz\404\index.htm
+Content Type: text/html
+
+Uri: https://pkfrom.github.io/404/assets/img/favicons/favicon144x144.png
+File Name: C:\Downloaded Web Sites\awardbot.xyz\404\assets\img\favicons\favicon144x144.png
+Content Type: image/png
+
+Uri: https://pkfrom.github.io/404/assets/img/favicons/favicon114x114.png
+File Name: C:\Downloaded Web Sites\awardbot.xyz\404\assets\img\favicons\favicon114x114.png
+Content Type: image/png
+
+Uri: https://pkfrom.github.io/404/assets/img/favicons/favicon72x72.png
+File Name: C:\Downloaded Web Sites\awardbot.xyz\404\assets\img\favicons\favicon72x72.png
+Content Type: image/png
+
+Uri: https://pkfrom.github.io/404/assets/img/favicons/favicon57x57.png
+File Name: C:\Downloaded Web Sites\awardbot.xyz\404\assets\img\favicons\favicon57x57.png
+Content Type: image/png
+
+Uri: https://pkfrom.github.io/404/assets/img/favicons/favicon.png
+File Name: C:\Downloaded Web Sites\awardbot.xyz\404\assets\img\favicons\favicon.png
+Content Type: image/png
+
+Uri: https://discord.com/oauth2/authorize?client_id=731219163317534740&scope=bot&permissions=8
+File Name: C:\Downloaded Web Sites\awardbot.xyz\oauth2\authorize.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/SzsMGbBkrj
+File Name: C:\Downloaded Web Sites\awardbot.xyz\invite\SzsMGbBkrj.html
+Content Type: text/html
+
+Uri: https://awardbot.xyz/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\awardbot.xyz\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://awardbot.xyz/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\awardbot.xyz\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://awardbot.xyz/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\awardbot.xyz\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://awardbot.xyz/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\awardbot.xyz\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://awardbot.xyz/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\awardbot.xyz\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://awardbot.xyz/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\awardbot.xyz\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://awardbot.xyz/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\awardbot.xyz\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://awardbot.xyz/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\awardbot.xyz\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://awardbot.xyz/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\awardbot.xyz\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://awardbot.xyz/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\awardbot.xyz\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://dash.cloudflare.com/sign-up?utm_source=email_protection
+File Name: C:\Downloaded Web Sites\awardbot.xyz\sign-up.html
+Content Type: text/html
+
+Uri: https://www.cloudflare.com/5xx-error-landing/
+File Name: C:\Downloaded Web Sites\awardbot.xyz\5xx-error-landing\index.htm
+Content Type: text/html
+
